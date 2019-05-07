@@ -1,0 +1,22 @@
+{
+  "name": "uni-scroll",
+  "version": "1.0.0",
+  "description": "uni-scroll 是基于 mescroll-uni 封装的",
+  "main": "mescroll-uni-option.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13725102796/uni-scroll.git"
+  },
+  "keywords": [
+    "uni-scroll"
+  ],
+  "author": "13725102796",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13725102796/uni-scroll/issues"
+  },
+  "homepage": "https://github.com/13725102796/uni-scroll#readme"
+}
