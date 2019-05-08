@@ -43,7 +43,7 @@ yarn add uni-scroll
 </template>
 
 <script>
-	import MescrollUni from "mescroll-uni/mescroll-uni.vue";
+	import MescrollUni from "uni-scroll/mescroll-uni.vue";
 	export default {
 		components: {
 			MescrollUni // 注册mescroll组件

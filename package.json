@@ -1,6 +1,6 @@
 {
   "name": "uni-scroll",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "uni-scroll 是基于 mescroll-uni 封装的",
   "main": "mescroll-uni-option.js",
   "scripts": {
